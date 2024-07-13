@@ -1,0 +1,11 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "main": "createServer.js",
+  "scripts": {
+    "start": "node createServer"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
